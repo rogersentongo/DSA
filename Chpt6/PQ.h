@@ -1,3 +1,8 @@
+/*
+    Roger Sentongo Interface for Priority Queue implemented using Binary Heap
+    Code adapted from DataStructures & Algorithm Analysis 4th edition Mark Weiss
+*/
+
 #ifndef PQ_H_
 #define PQ_H_
 
